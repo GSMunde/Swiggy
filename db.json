@@ -1,0 +1,217 @@
+{
+    "FoodData" : [
+        {
+            "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_288,h_360/MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/6ef07bda-b707-48ea-9b14-2594071593d1_North%20Indian.png",
+            "path": "north-indian"
+        },
+        {
+            "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_288,h_360/MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/6ef07bda-b707-48ea-9b14-2594071593d1_Pizzas.png",
+            "path": "pizza"
+        },
+        {
+            "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_288,h_360/MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/6ef07bda-b707-48ea-9b14-2594071593d1_Noodles.png",
+            "path": "noodles"
+        },
+        {
+            "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_288,h_360/MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/f1263395-5d4a-4775-95dc-80ab6f3bbd89_pasta.png",
+            "path": "pasta"
+        },
+        {
+            "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_288,h_360/MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/6ef07bda-b707-48ea-9b14-2594071593d1_Paratha.png",
+            "path": "paratha"
+        },
+        {
+            "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_288,h_360/MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/6ef07bda-b707-48ea-9b14-2594071593d1_Biryani.png",
+            "path": "biryani"
+        },
+        {
+            "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_288,h_360/MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/8f508de7-e0ac-4ba8-b54d-def9db98959e_burger.png",
+            "path": "burger"
+        },
+        {
+            "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_288,h_360/MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/8f508de7-e0ac-4ba8-b54d-def9db98959e_cake.png",
+            "path": "cakes"
+        },
+        {
+            "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_288,h_360/MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/6ef07bda-b707-48ea-9b14-2594071593d1_Chinese.png",
+            "path": "chinese"
+        },
+        {
+            "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_288,h_360/MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/8f508de7-e0ac-4ba8-b54d-def9db98959e_chole%20bhature.png",
+            "path": "chole-bature"
+        },
+        {
+            "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_288,h_360/MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/6ef07bda-b707-48ea-9b14-2594071593d1_Dosa.png",
+            "path": "dost"
+        },
+        {
+            "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_288,h_360/MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/f1263395-5d4a-4775-95dc-80ab6f3bbd89_pastry.png",
+            "path": "Pastry"
+        },
+        {
+            "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_288,h_360/MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/8f508de7-e0ac-4ba8-b54d-def9db98959e_chocolate%20icecream.png",
+            "path": "ice-creams"
+        },
+        {
+            "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_288,h_360/MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/6ef07bda-b707-48ea-9b14-2594071593d1_Idli.png",
+            "path": "idli"
+        },
+        {
+            "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_288,h_360/MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/6ef07bda-b707-48ea-9b14-2594071593d1_Khichdi.png",
+            "path": "khichdi"
+        },
+        {
+            "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_288,h_360/MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/8f508de7-e0ac-4ba8-b54d-def9db98959e_Pav%20Bhaji.png",
+            "path": "Pav Bhaji"
+        },
+        {
+            "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_288,h_360/MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/f1263395-5d4a-4775-95dc-80ab6f3bbd89_shawarma.png",
+            "path": "Shawarma"
+        },
+        {
+            "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_288,h_360/MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/17/58760e8e-324f-479e-88fa-31800120ea38_Rolls1.png",
+            "path": "rolls"
+        },
+        {
+            "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_288,h_360/MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/8f508de7-e0ac-4ba8-b54d-def9db98959e_Vada.png",
+            "path": "Vada"
+        },
+        {
+            "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_288,h_360/MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/8f508de7-e0ac-4ba8-b54d-def9db98959e_Salad-1.png",
+            "path": "south-indian"
+        }
+    ],
+
+    "TopRestaurant" : [
+        {
+            "image": "https://media-assets.swiggy.com/swiggy/image/upload/f_auto,q_auto,fl_lossy/RX_THUMBNAIL/IMAGES/VENDOR/2024/7/16/99caae01-bfed-4af8-a05f-a32eab4fc31f_11669.jpg",
+            "offer": "Items at ₹179",
+            "title": "Pizza Hut",
+            "rating": 4.2,
+            "minTime": 30,
+            "maxTime": 40,
+            "name": "Pizzas",
+            "place": "Pimpri"
+        },
+        {
+            "image": "https://media-assets.swiggy.com/swiggy/image/upload/f_auto,q_auto,fl_lossy/RX_THUMBNAIL/IMAGES/VENDOR/2024/6/11/662bb58f-7b46-40e3-938a-6ca094b2677a_579705.JPG",
+            "offer": "₹50 OFF ABOVE ₹199",
+            "title": "Burger King",
+            "rating": 4.5,
+            "minTime": 35,
+            "maxTime": 40,
+            "name": "Burgers, American",
+            "place": "Chinchwad"
+        },
+        {
+            "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_366/RX_THUMBNAIL/IMAGES/VENDOR/2024/4/1/1c999aef-c166-496d-a9f1-8508e83e6d5a_23683.jpg",
+            "offer": "₹85 OFF ABOVE ₹149",
+            "title": "Mcdonald's",
+            "rating": 4.4,
+            "minTime": 35,
+            "maxTime": 40,
+            "name": "Burgers, Beverages, Cafe, Desserts",
+            "place": "Chinchwad"
+        },
+        {
+            "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_366/RX_THUMBNAIL/IMAGES/VENDOR/2024/8/6/6a114cc8-3816-403b-bee6-4da494fd1d43_478349.jpg",
+            "offer": "₹70 OFF ABOVE ₹149",
+            "title": "CakeZone Patisserie",
+            "rating": 4.4,
+            "minTime": 25,
+            "maxTime": 25,
+            "name": "Bakery,Desserts, Sweets, Ice Cream",
+            "place": "Bhat Nagar"
+        },
+        {
+            "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_366/RX_THUMBNAIL/IMAGES/VENDOR/2024/4/17/76795500-8115-430e-8634-fa86dc2be090_39248.JPG",
+            "offer": "₹1-5 OFF ABOVE ₹179",
+            "title": "KFC",
+            "rating": 4.4,
+            "minTime": 30,
+            "maxTime": 35,
+            "name": "Burgers, Rolls & Wraps, Fast Food",
+            "place": "Chinchwad"
+        },
+        {
+            "image": "https://media-assets.swiggy.com/swiggy/image/upload/f_auto,q_auto,fl_lossy/dce75bf0d124fb1fa390597828d8ffd9",
+            "offer": "₹100 OFF ABOVE ₹499",
+            "title": "Pastas By Pizza Hut",
+            "rating": 4.7,
+            "minTime": 25,
+            "maxTime": 30,
+            "name": "Pastas",
+            "place": "Pimpri"
+        },
+        {
+            "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/RX_THUMBNAIL/IMAGES/VENDOR/2024/8/22/9eb9646f-81d6-40e2-9690-b8757235c485_695672.jpg",
+            "offer": "Items at ₹109",
+            "title": "Overfresh Cakes And Desserts",
+            "rating": 4.0,
+            "minTime": 35,
+            "maxTime": 40,
+            "name": "Bakery,Desserts, Beverages, Ice Cream",
+            "place": "PCMC"
+        },
+        {
+            "image": "https://media-assets.swiggy.com/swiggy/image/upload/f_auto,q_auto,fl_lossy/6e44fd7f1e5cd9967edfe47c10247671",
+            "offer": "₹125 OFF ABOVE ₹349",
+            "title": "Great Indian Khichdi by EatFit",
+            "rating": 4.2,
+            "minTime": 30,
+            "maxTime": 35,
+            "name": "Indian, Home, Healthy Food",
+            "place": "Pimpri"
+        },
+        {
+            "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_366/RX_THUMBNAIL/IMAGES/VENDOR/2024/9/6/c1f35caf-07af-4a0e-8ff5-8c31c94e2a1d_416047.jpg",
+            "offer": "₹70 OFF ABOVE ₹249",
+            "title": "EatFit",
+            "rating": 4.4,
+            "minTime": 30,
+            "maxTime": 35,
+            "name": "Healthy Food, Salads, Burgers",
+            "place": "Pimpri Chinchwad"
+        },
+        {
+            "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_366/RX_THUMBNAIL/IMAGES/VENDOR/2024/5/24/be393804-2d6a-4a9d-80e3-45383be0e346_834096.jpg",
+            "offer": "₹100 OFF ABOVE ₹449",
+            "title": "The Dessert Heaven - Pastry",
+            "rating": 4.1,
+            "minTime": 25,
+            "maxTime": 30,
+            "name": "Bakery,Desserts, Sweets, Ice Cream",
+            "place": "Bhat Nagar"
+        },
+        {
+            "image": "https://media-assets.swiggy.com/swiggy/image/upload/f_auto,q_auto,fl_lossy/1053423198dd62c4a112f158c5f6840d",
+            "offer": "₹20 OFF ABOVE ₹100",
+            "title": "Geeta Pav Bhaji",
+            "rating": 4.4,
+            "minTime": 15,
+            "maxTime": 20,
+            "name": "Fast Food",
+            "place": "PCMC"
+        },
+        {
+            "image": "https://kukgatopokki.com/wp-content/uploads/2022/11/KT-menu-4-800-x-800.png",
+            "offer": "₹100 OFF ABOVE ₹449",
+            "title": "Kukga Topokki",
+            "rating": 4.1,
+            "minTime": 25,
+            "maxTime": 30,
+            "name": "Korean Test",
+            "place": "Pimpri Chinchwad"
+        },
+        {
+            "image": "https://www.secondrecipe.com/wp-content/uploads/2020/11/dal-bati-churma.jpg",
+            "offer": "₹60 OFF ABOVE ₹200",
+            "title": "Rajasthani Dal Baati Churma",
+            "rating": 4.1,
+            "minTime": 25,
+            "maxTime": 30,
+            "name": "Rajasthani ",
+            "place": "Pimpri"
+        }
+    ]
+}
